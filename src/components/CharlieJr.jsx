@@ -9,7 +9,7 @@ const CharlieJr = () => {
       <h1>Charlie jr</h1>
       <h4> {counter}</h4>
 
-      <Button variant="contained" onClick={() => setCounter(counter + 1)}>Haz algo</Button>
+      <Button variant="contained" onClick={() => setCounter(counter + 1)}>Click</Button>
     </div>
   );
 };

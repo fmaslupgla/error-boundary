@@ -1,8 +1,8 @@
 .aContainer{
     display: flex;
     flex-direction: column;
-    border: 1px solid black;
+    border: 3px solid rgb(110, 218, 233);
     align-items: center;
-    padding: 20px;
     border-radius: 30px;
+    background-color: rgb(0, 0, 0);
 }
