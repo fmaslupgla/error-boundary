@@ -1,0 +1,8 @@
+.dContainer{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    align-items: center;
+    padding: 30px;
+    border-radius: 30px;
+}

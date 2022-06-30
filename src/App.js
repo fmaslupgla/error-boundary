@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
-import Case1 from "./views/Case1";
+import Case1 from "./views/case1/Case1";
 import Layout from "./components/layout/Layout";
 
 const App = () => {
