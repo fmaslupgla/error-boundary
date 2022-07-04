@@ -4,7 +4,7 @@ import "./fallback.css";
 const Fallback = () => {
   return (
     <div className="fallback">
-      <div className="fallbackContent">OOPS! <br/>algo salió mal!</div>
+      <p className="fallbackContent">OOPS! algo salio mal!</p>
     </div>
   );
 };

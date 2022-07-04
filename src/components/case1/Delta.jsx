@@ -3,7 +3,7 @@ import DeltaJr from "./DeltaJr";
 import { Button } from "@mui/material";
 import "./delta.css";
 import { ErrorBoundary } from "react-error-boundary";
-import Fallback from "./errorBoundary/Fallback";
+import Fallback from "../errorBoundary/Fallback";
 
 const Delta = () => {
   const [counter, setCounter] = useState(0);

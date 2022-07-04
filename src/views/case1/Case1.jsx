@@ -1,5 +1,5 @@
 import React from "react";
-import Alpha from "../../components/Alpha";
+import Alpha from "../../components/case1/Alpha";
 import './case1.css'
 
 const Case1 = () => {

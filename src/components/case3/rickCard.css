@@ -1,0 +1,11 @@
+.rickContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(58, 45, 45);
+    border-radius: 30px;
+    border: 2px solid aquamarine;
+    width: fit-content;
+    padding: 20px;
+}

@@ -4,7 +4,7 @@ import Charlie from "./Charlie";
 import Delta from "./Delta";
 import "./bravo.css";
 import { ErrorBoundary } from "react-error-boundary";
-import Fallback from "./errorBoundary/Fallback";
+import Fallback from "../errorBoundary/Fallback";
 
 const Bravo = () => {
   const [counter, setCounter] = useState(0);
